@@ -1,0 +1,120 @@
+.details-main-container {
+  padding: 40px;
+  color: #e0d666;
+}
+
+.outer-random-container {
+  min-height: 900vh;
+  background-color: #121212;
+  padding: 10px;
+}
+
+.movie-details-heading {
+}
+
+.mage-div-random {
+  height: 150px;
+}
+
+.right-container-rndom {
+  height: 150px;
+  padding-left: 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.right-container {
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.actual-movie-details-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.movie-title {
+}
+
+.movie-image {
+}
+
+.movie-rating {
+}
+
+.movir-duration {
+}
+
+.genre-heading {
+}
+
+.ul-genre {
+}
+
+.each-para-genre {
+}
+
+.date {
+}
+
+.movie-description {
+}
+
+.bottom-container {
+  height: 300px;
+}
+
+.cast-details-heading {
+}
+
+.cart-ul-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.crew-ul-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.crew-heding {
+}
+
+.cast-li-item {
+  max-width: 100px;
+  margin-right: 20px;
+}
+
+.cast-actor-name {
+}
+
+.cast-role {
+}
+
+.cast-image {
+  width: 90px;
+  height: 90px;
+}
+
+.crew-li {
+  max-width: 100px;
+  margin-right: 20px;
+}
+
+.crew-para {
+}
+
+.crew-department {
+}
+
+.crew-image {
+  width: 90px;
+  height: 90px;
+}
